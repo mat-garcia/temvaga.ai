@@ -102,10 +102,6 @@ Chat id
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a Apache License, Versão 2.0. Veja o texto completo da licença abaixo.
+Copyright 2026 - MatGDev
 
-```
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-```
+Licensed under the Apache License, Version 2.0 (the "[License]("./LICENSE.md")"");
